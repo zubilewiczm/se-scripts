@@ -1,0 +1,7 @@
+is_global = true
+build_property.ProjectDir = C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\
+build_property.ProjectDir = C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\
+build_property.Mdk-IgnorePaths = obj\**\*;MDK\**\*;**\*.debug.cs
+build_property.RootNamespace = IngameScript
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

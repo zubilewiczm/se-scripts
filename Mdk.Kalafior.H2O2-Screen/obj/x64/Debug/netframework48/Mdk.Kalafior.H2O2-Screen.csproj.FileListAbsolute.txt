@@ -1,0 +1,7 @@
+C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\bin\x64\Debug\netframework48\Mdk.Kalafior.H2O2-Screen.dll
+C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\bin\x64\Debug\netframework48\Mdk.Kalafior.H2O2-Screen.pdb
+C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\obj\x64\Debug\netframework48\Mdk.Kalafior.H2O2-Screen.csproj.AssemblyReference.cache
+C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\obj\x64\Debug\netframework48\Mdk.Kalafior.H2O2-Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\obj\x64\Debug\netframework48\Mdk.Kalafior.H2O2-Screen.csproj.CoreCompileInputs.cache
+C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\obj\x64\Debug\netframework48\Mdk.Kalafior.H2O2-Screen.dll
+C:\Users\kalaf\source\SE\repos\Mdk.Kalafior.H2O2-Screen\obj\x64\Debug\netframework48\Mdk.Kalafior.H2O2-Screen.pdb
