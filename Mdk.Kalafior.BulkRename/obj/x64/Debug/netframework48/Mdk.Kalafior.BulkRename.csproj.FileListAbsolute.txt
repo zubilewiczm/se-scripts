@@ -1,0 +1,7 @@
+C:\Users\kalaf\source\repos\Mdk.Kalafior.BulkRename\bin\x64\Debug\netframework48\Mdk.Kalafior.BulkRename.dll
+C:\Users\kalaf\source\repos\Mdk.Kalafior.BulkRename\bin\x64\Debug\netframework48\Mdk.Kalafior.BulkRename.pdb
+C:\Users\kalaf\source\repos\Mdk.Kalafior.BulkRename\obj\x64\Debug\netframework48\Mdk.Kalafior.BulkRename.csproj.AssemblyReference.cache
+C:\Users\kalaf\source\repos\Mdk.Kalafior.BulkRename\obj\x64\Debug\netframework48\Mdk.Kalafior.BulkRename.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalaf\source\repos\Mdk.Kalafior.BulkRename\obj\x64\Debug\netframework48\Mdk.Kalafior.BulkRename.csproj.CoreCompileInputs.cache
+C:\Users\kalaf\source\repos\Mdk.Kalafior.BulkRename\obj\x64\Debug\netframework48\Mdk.Kalafior.BulkRename.dll
+C:\Users\kalaf\source\repos\Mdk.Kalafior.BulkRename\obj\x64\Debug\netframework48\Mdk.Kalafior.BulkRename.pdb

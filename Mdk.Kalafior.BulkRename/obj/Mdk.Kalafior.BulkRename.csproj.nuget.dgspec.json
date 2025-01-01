@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kalaf\\source\\repos\\Mdk.Kalafior.BulkRename\\Mdk.Kalafior.BulkRename.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kalaf\\source\\repos\\Mdk.Kalafior.BulkRename\\Mdk.Kalafior.BulkRename.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kalaf\\source\\repos\\Mdk.Kalafior.BulkRename\\Mdk.Kalafior.BulkRename.csproj",
+        "projectName": "Mdk.Kalafior.BulkRename",
+        "projectPath": "C:\\Users\\kalaf\\source\\repos\\Mdk.Kalafior.BulkRename\\Mdk.Kalafior.BulkRename.csproj",
+        "packagesPath": "C:\\Users\\kalaf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kalaf\\source\\repos\\Mdk.Kalafior.BulkRename\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kalaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netframework48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "netframework48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "netframework48",
+          "dependencies": {
+            "Mal.Mdk2.PbAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "Mal.Mdk2.PbPackager": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.14, )"
+            },
+            "Mal.Mdk2.References": {
+              "include": "Build",
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
